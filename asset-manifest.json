@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/DailyDigest-ReactApp/static/css/main.073c9b0a.css",
+    "main.js": "/DailyDigest-ReactApp/static/js/main.c1b8da01.js",
+    "static/js/787.66a4299e.chunk.js": "/DailyDigest-ReactApp/static/js/787.66a4299e.chunk.js",
+    "static/media/loading.gif": "/DailyDigest-ReactApp/static/media/loading.b95b462732a2250636cc.gif",
+    "index.html": "/DailyDigest-ReactApp/index.html",
+    "main.073c9b0a.css.map": "/DailyDigest-ReactApp/static/css/main.073c9b0a.css.map",
+    "main.c1b8da01.js.map": "/DailyDigest-ReactApp/static/js/main.c1b8da01.js.map",
+    "787.66a4299e.chunk.js.map": "/DailyDigest-ReactApp/static/js/787.66a4299e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c1b8da01.js"
+  ]
+}
